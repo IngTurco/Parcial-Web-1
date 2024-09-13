@@ -326,6 +326,7 @@ footer {
         text-align: center;
         font-size: 38px;
         font-weight: bold;
+        text-shadow: none;
     } 
     .hero-text button {
         background-color:black;
